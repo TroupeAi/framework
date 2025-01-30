@@ -12,9 +12,8 @@ from src.utils.ipfs_client import IPFSClient
 from src.utils.agent_collaboration import CollaborationFramework
 from src.utils.reinforcement_learning import QLearning
 
-class JEDIAgent:
+class troupeAgent:
     """
-    JEDI: Jailbroken Enhanced Digital Intelligence.
     A modular, adaptive, and decentralized AI agent capable of handling gaming, social media, blockchain, and advanced analytics.
     """
 

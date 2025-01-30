@@ -2,7 +2,7 @@
 environment: development  # Options: development, staging, production
 
 # AI Agent configuration
-aether:
+troupe:
   agent:
     id: 1                        # Unique ID for the agent
     role: "manager"              # Role of the agent (e.g., worker, explorer, coordinator)

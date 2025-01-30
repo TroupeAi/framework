@@ -68,7 +68,7 @@ class SocialMediaOrchestrator:
 
 # Example Usage
 if __name__ == "__main__":
-    agent_id = "JEDI-01"
+    agent_id = "troupe-01"
     orchestrator = SocialMediaOrchestrator(agent_id)
 
     # Connect to Twitter

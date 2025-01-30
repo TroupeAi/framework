@@ -1,5 +1,5 @@
 agent_config:
-  name: "JEDI Strategist"
+  name: "troupe Strategist"
   personality: 
     type: "humorous"  # Options: neutral, humorous, sarcastic, formal
     tone: "lighthearted"  # Options: lighthearted, professional, casual

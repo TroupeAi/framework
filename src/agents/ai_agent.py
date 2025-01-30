@@ -178,5 +178,5 @@ class AIAgent:
 
 # Example usage
 if __name__ == "__main__":
-    agent = AIAgent(agent_id="JEDI-01", role="coordinator", provider="huggingface", base_url="http://localhost:8000")
+    agent = AIAgent(agent_id="troupe-01", role="coordinator", provider="huggingface", base_url="http://localhost:8000")
     agent.execute_text_task("Generate a project plan for the next phase.")

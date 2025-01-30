@@ -1,8 +1,8 @@
-# Aether Framework Usage
+# troupe Framework Usage
 
 ## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/aether-framework.git
-   cd aether-framework
+   git clone https://github.com/your-username/troupe-framework.git
+   cd troupe-framework
